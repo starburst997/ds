@@ -4,6 +4,7 @@ doc/**
 dump/**
 obj/**
 sandbox/**
+tools/**
 tmp/**
 ds.hxproj
 todo.txt
