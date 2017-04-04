@@ -5,6 +5,7 @@
 	"url": "https://github.com/polygonal/ds",
 	"tags": ["cross", "utility", "game"],
 	"contributors" : ["mbaczynski"],
+	"classPath": "src",
 	"version": "1.4.1",
 	"releasenote": "See README",
 	"dependencies":
